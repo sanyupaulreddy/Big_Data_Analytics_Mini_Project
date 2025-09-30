@@ -61,8 +61,8 @@ The goal is to explore car resale trends, fuel/transmission preferences, price v
 ---
 
 ## 📑 Reports & Presentations
-- 📄 Cars24 Analytics Report (PDF)  
-- 📊 [Cars24 Analytics Presentation (PPTX)] () 
+- 📄 [Cars24 Analytics Report](https://github.com/sanyupaulreddy/Big_Data_Analytics_Mini_Project/blob/13f02675d7f8d3de9685f9d88999cf0fafcdede9/7.%20Used_Cars_Project/Cars24_UsedCars_Report.pdf)  
+- 📊 [Cars24 Analytics Presentation PPTX](https://github.com/sanyupaulreddy/Big_Data_Analytics_Mini_Project/blob/13f02675d7f8d3de9685f9d88999cf0fafcdede9/7.%20Used_Cars_Project/Cars24_Project_Presentation.pptx) 
 - 📓 Jupyter Notebook (`BDA_Mini_Project_UsedCars.ipynb`)  
 
 ---
