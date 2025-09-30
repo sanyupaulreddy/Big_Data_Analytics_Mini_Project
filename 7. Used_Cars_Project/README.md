@@ -8,7 +8,7 @@ The goal is to explore car resale trends, fuel/transmission preferences, price v
 ## 📊 Project Overview
 - **Dataset**: Cars24 Used Cars Data  
 - **File Used**: Cars24.csv  
-- **Records**: ~X rows (replace with count from dataset)  
+- **Records**: ~1000 rows  
 - **Columns**: Year, Car Model, Car Variant, KM Driven, Fuel Type, Transmission, Owner, Location, Price, etc.  
 - **Objective**: Perform data analytics on used car sales, visualize insights, and apply big data operations with PySpark.  
 
